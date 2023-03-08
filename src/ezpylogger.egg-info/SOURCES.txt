@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/ezpylogger.egg-info/PKG-INFO
+src/ezpylogger.egg-info/SOURCES.txt
+src/ezpylogger.egg-info/dependency_links.txt
+src/ezpylogger.egg-info/top_level.txt
