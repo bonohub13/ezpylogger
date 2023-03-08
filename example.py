@@ -1,4 +1,4 @@
-from scripts.pylog import Logger
+from scripts.ezpylogger import Logger
 
 logger = Logger()
 
