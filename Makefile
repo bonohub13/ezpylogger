@@ -16,4 +16,7 @@ dependency: venv
 	pip install --upgrade pip twine build
 
 upload: venv dist
+	python -m twine upload dist/*
+
+upload-testing: venv dist
 	python -m twine upload --repository testpypi dist/*

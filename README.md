@@ -39,5 +39,5 @@ prod = Mul()(1, 2, 3, 4, 5, 6, 7, 0.08, 0.69, 4.20)
 
 ## Installation
 ``` bash
-python3 -m pip install -i https://test.pypi.org/simple/ezpylogger
+python3 -m pip install ezpylogger
 ```
